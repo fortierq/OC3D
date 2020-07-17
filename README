@@ -1,6 +1,8 @@
   ///         Optimal Cutting 3D           \\\
 
 
+Video for Blender script demonstration: http://quentinfortier.fr/Stage/OC3D/Script/script.avi
+
 ==== Prerequirement: TetMeshLib ====
 Download TetMeshLib, and add it in the contrib/ directory (contrib/TetMeshLib/)
 Build this library (it require several tools, i.e. gmake, makedepend, etc.):
